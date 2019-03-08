@@ -259,3 +259,7 @@ paket-files/
 # Python Tools for Visual Studio (PTVS)
 __pycache__/
 *.pyc
+/SCpjTestUART_C1/__vm
+/SCpjTestUART_C0/__vm
+*.filters
+*.vcxproj
