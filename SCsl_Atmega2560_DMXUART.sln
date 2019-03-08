@@ -17,6 +17,8 @@ Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "SCpjTestUART_C1", "SCpjTest
 EndProject
 Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "SCpjTestUART_C2", "SCpjTestUART_C2\SCpjTestUART_C2.vcxproj", "{13C905D0-DAC3-4CC5-98A5-13A55B9BEE21}"
 EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "SCpjTestUART_C3", "SCpjTestUART_C3\SCpjTestUART_C3.vcxproj", "{FDFD2359-ABFA-4091-A870-50DDB62B071F}"
+EndProject
 Global
 	GlobalSection(SharedMSBuildProjectFiles) = preSolution
 		..\SClb_Atmega2560_DMXUART_C2\SClb_Atmega2560_DMXUART_C2.vcxitems*{13c905d0-dac3-4cc5-98a5-13a55b9bee21}*SharedItemsImports = 4
@@ -26,6 +28,7 @@ Global
 		..\SClb_Atmega2560_DMXUART_C3\SClb_Atmega2560_DMXUART_C3.vcxitems*{60a26c3b-4e22-4ea5-b801-e959e0553e66}*SharedItemsImports = 9
 		..\SClb_Atmega2560_DMXUART_C2\SClb_Atmega2560_DMXUART_C2.vcxitems*{61cc5993-604b-489e-a98d-cb1274903423}*SharedItemsImports = 9
 		..\SClb_Atmega2560_DMXUART_C0\SClb_Atmega2560_DMXUART_C0.vcxitems*{c5f80730-f44f-4478-bdae-6634efc2ca88}*SharedItemsImports = 4
+		..\SClb_Atmega2560_DMXUART_C3\SClb_Atmega2560_DMXUART_C3.vcxitems*{fdfd2359-abfa-4091-a870-50ddb62b071f}*SharedItemsImports = 4
 	EndGlobalSection
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|x86 = Debug|x86
@@ -44,6 +47,10 @@ Global
 		{13C905D0-DAC3-4CC5-98A5-13A55B9BEE21}.Debug|x86.Build.0 = Debug|Win32
 		{13C905D0-DAC3-4CC5-98A5-13A55B9BEE21}.Release|x86.ActiveCfg = Release|Win32
 		{13C905D0-DAC3-4CC5-98A5-13A55B9BEE21}.Release|x86.Build.0 = Release|Win32
+		{FDFD2359-ABFA-4091-A870-50DDB62B071F}.Debug|x86.ActiveCfg = Debug|Win32
+		{FDFD2359-ABFA-4091-A870-50DDB62B071F}.Debug|x86.Build.0 = Debug|Win32
+		{FDFD2359-ABFA-4091-A870-50DDB62B071F}.Release|x86.ActiveCfg = Release|Win32
+		{FDFD2359-ABFA-4091-A870-50DDB62B071F}.Release|x86.Build.0 = Release|Win32
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
