@@ -265,3 +265,4 @@ __pycache__/
 *.vcxproj
 /SCpjTestUART_C2/__vm
 /SCpjTestUART_C3/__vm
+/SCpjTestAll4UART/__vm

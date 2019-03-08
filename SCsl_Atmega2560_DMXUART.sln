@@ -19,10 +19,16 @@ Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "SCpjTestUART_C2", "SCpjTest
 EndProject
 Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "SCpjTestUART_C3", "SCpjTestUART_C3\SCpjTestUART_C3.vcxproj", "{FDFD2359-ABFA-4091-A870-50DDB62B071F}"
 EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "SCpjTestAll4UART", "SCpjTestAll4UART\SCpjTestAll4UART.vcxproj", "{528B64AA-4385-4748-A107-58489908551D}"
+EndProject
 Global
 	GlobalSection(SharedMSBuildProjectFiles) = preSolution
 		..\SClb_Atmega2560_DMXUART_C2\SClb_Atmega2560_DMXUART_C2.vcxitems*{13c905d0-dac3-4cc5-98a5-13a55b9bee21}*SharedItemsImports = 4
 		..\SClb_Atmega2560_DMXUART_C1\SClb_Atmega2560_DMXUART_C1.vcxitems*{1bd73c50-a44f-4b43-a8f4-501260e9f68e}*SharedItemsImports = 9
+		..\SClb_Atmega2560_DMXUART_C0\SClb_Atmega2560_DMXUART_C0.vcxitems*{528b64aa-4385-4748-a107-58489908551d}*SharedItemsImports = 4
+		..\SClb_Atmega2560_DMXUART_C1\SClb_Atmega2560_DMXUART_C1.vcxitems*{528b64aa-4385-4748-a107-58489908551d}*SharedItemsImports = 4
+		..\SClb_Atmega2560_DMXUART_C2\SClb_Atmega2560_DMXUART_C2.vcxitems*{528b64aa-4385-4748-a107-58489908551d}*SharedItemsImports = 4
+		..\SClb_Atmega2560_DMXUART_C3\SClb_Atmega2560_DMXUART_C3.vcxitems*{528b64aa-4385-4748-a107-58489908551d}*SharedItemsImports = 4
 		..\SClb_Atmega2560_DMXUART_C1\SClb_Atmega2560_DMXUART_C1.vcxitems*{5b3150e5-9755-4799-9f09-a92b47c2c10a}*SharedItemsImports = 4
 		..\SClb_Atmega2560_DMXUART_C0\SClb_Atmega2560_DMXUART_C0.vcxitems*{60415fbb-b182-4fbe-9218-d76d5c06a252}*SharedItemsImports = 9
 		..\SClb_Atmega2560_DMXUART_C3\SClb_Atmega2560_DMXUART_C3.vcxitems*{60a26c3b-4e22-4ea5-b801-e959e0553e66}*SharedItemsImports = 9
@@ -51,6 +57,10 @@ Global
 		{FDFD2359-ABFA-4091-A870-50DDB62B071F}.Debug|x86.Build.0 = Debug|Win32
 		{FDFD2359-ABFA-4091-A870-50DDB62B071F}.Release|x86.ActiveCfg = Release|Win32
 		{FDFD2359-ABFA-4091-A870-50DDB62B071F}.Release|x86.Build.0 = Release|Win32
+		{528B64AA-4385-4748-A107-58489908551D}.Debug|x86.ActiveCfg = Debug|Win32
+		{528B64AA-4385-4748-A107-58489908551D}.Debug|x86.Build.0 = Debug|Win32
+		{528B64AA-4385-4748-A107-58489908551D}.Release|x86.ActiveCfg = Release|Win32
+		{528B64AA-4385-4748-A107-58489908551D}.Release|x86.Build.0 = Release|Win32
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
